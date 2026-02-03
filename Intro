@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Arsalan WEB</title>
+ 
+<link rel="stylesheet" href="style.css">
+
+</head>
+<body>
+  <header>
+    <h1>Welcome to My Advanced CSS Website</h1>
+  </header>
+  <nav>
+    <a href="index.html" class="active">Home</a>
+    <a href="about.html">About Us</a>
+    <a href="services.html">Services</a>
+    <a href="contact.html">Contact Us</a>
+  </nav>
+  <section class="intro">
+    <p>Welcome to our website a showcase of modern web design powered by advanced CSS techniques. This platform highlights the effective use of Flexbox layouts to create responsive and well-structured pages along with styled tables that present information in a clean and organized way. You will also find interactive forms designed to enhance user experience and improve accessibility across different devices. As you explore the site you will learn more about our dedicated team gain a deeper understanding of the services we provide and see how thoughtful design choices contribute to functional and visually appealing interfaces. This website demonstrates advanced CSS techniques including Flexbox layouts, styled tables and interactive forms. Explore the pages to learn more about our team services and how to contact us.</p>
+  </section>
+
+</body>
+</html>
+
+
+
+
+
